@@ -31,4 +31,7 @@ dependencies {
 
     // smart tab layout library
     compile 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+
+    //Optional: see how to use the utility.
+    compile 'com.ogaclejapan.smarttablayout:utils-v13:1.6.1@aar'
 }
